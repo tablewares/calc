@@ -6,4 +6,4 @@ Very simple, only goes from left to right, no precedents (i.e parathensis goes f
 Not designed for serious use
 
 example usage
-9*3+21-34 = 14 because 9*3=27, 27+21 = 48, and 48-34 = 14
+9 x 3 + 21 - 34 = 14 because 9 x 3 = 27, 27 + 21 = 48, and 48 - 34 = 14
